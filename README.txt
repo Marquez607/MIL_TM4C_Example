@@ -29,9 +29,9 @@ Note: I highly recommend all EEs in MIL read up on the CAN communication protoco
       https://www.youtube.com/watch?v=YvsGuK9Up0E
       
 Hardware Notes: In order to provide noise tolerance, CAN messages are transmitted via a differential pair. 
-                
-      
-      
+                This pair is denoted as CAN High(CANH) and CAN Low(CANL). In order to transmission, the bus must have at least
+                two termination resistors of 120 Ohms at each end of the bus. Alternatively, you can have the termination resistors
+                between the CANH and CANL of each ECU in your system. The latter is what we will enforce in MIL.
                 
        CANH--+--------------------------+--CANH
              |                          |
