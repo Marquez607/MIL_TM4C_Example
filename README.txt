@@ -42,6 +42,23 @@ Hardware Notes: In order to provide noise tolerance, CAN messages are transmitte
              |                          |
        CANL--+--------------------------+--CANL
 
+Header Files Created by Me: 
+       MIL_CAN:
+       In order to make life easier, I made a MIL_CAN header file for anyone to use which will allow very 
+       primitive deployment of CAN on boards. For more robust situaions, a more involved solution than what's 
+       currently provided may need to be created.
+       
+       myLCD: 
+       I created this header for parallel communications with a 1602 LCD panel. This driver has a set of hardcoded pins that
+       it uses for LCD operations which makes it not as portable but still useful template if someone was to use a
+       parallel LCD system.
 
+
+
+
+
+
+                            
+                            
 
        
