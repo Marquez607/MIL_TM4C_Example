@@ -20,8 +20,9 @@ Code Composer Notes:
   the examples in CCS without switching to C89, it simply
   won't compile as there are slight syntax differences between
   the two versions of C. 
-                   
-                     
+  Code Composer can be installed here:
+  http://www.ti.com/tool/CCSTUDIO
+                                   
 TivaWare Notes: 
   All examples were written using the TivaWare driver library which can be 
   installed here:
