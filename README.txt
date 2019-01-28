@@ -29,4 +29,4 @@ TivaWare Notes:
   http://www.ti.com/tool/SW-TM4C
   This library must be further linked to you CCS project after installation.
   Instructions here:
-  https://e2e.ti.com/support/microcontrollers/other/f/908/p/368823/1296745#1296745
+  http://processors.wiki.ti.com/index.php/Creating_IoT_Solutions_with_the_TM4C1294XL_Connected_LaunchPad_Workshop
