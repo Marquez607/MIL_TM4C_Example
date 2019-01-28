@@ -26,7 +26,7 @@ Code Composer Notes:
 TivaWare Notes: 
   All examples were written using the TivaWare driver library which can be 
   installed here:
-  http://www.ti.com/tool/SW-TM4
+  http://www.ti.com/tool/SW-TM4C
   This library must be further linked to you CCS project after installation.
   Instructions here:
   https://e2e.ti.com/support/microcontrollers/other/f/908/p/368823/1296745#1296745
