@@ -1,3 +1,3 @@
 
 
-![image Info](Register_View.png "Image Description")
+![image Info](Register_View.PNG "Image Description")
